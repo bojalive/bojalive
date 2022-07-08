@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bojalive
 - 👀 I’m interested in politcs and cSharp
-- 🌱 I’m currently learning cSharp
-- 💞️ I’m looking to collaborate on cSharp WinForms
+- 🌱 I’m in live with cSharp
+- 💞️ I’m looking to collaborate on cSharp and React
 - 📫 How to reach me ...
 
 <!---
