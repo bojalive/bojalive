@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bojalive
-- 👀 I’m interested in politcs and cSharp
-- 🌱 I’m in live with cSharp
-- 💞️ I’m looking to collaborate on cSharp and React
+- 👀 I’m interested in politcs and C#
+- 🌱 I’m in love with C#
+- 💞️ I’m looking to collaborate on C# and React
 - 📫 How to reach me ...
 
 <!---
